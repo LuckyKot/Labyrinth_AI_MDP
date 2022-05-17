@@ -20,4 +20,3 @@ Initial state and the first iteration:
 
 Final, 30th iteration:  
 ![alt text](https://github.com/LuckyKot/Markov_Decision_Process/blob/c3c97981dc83a7567388f26b3630f46e75a7b6fe/example3.png)
-We can clearly see the policy
